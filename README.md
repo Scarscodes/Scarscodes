@@ -1,16 +1,12 @@
-## Hi there 👋
+name: Scars
+located_in: Atlanta, Georgia, USA
+current_job: Website Developer
+education:
+  ["Computer Science", "Self-Taught Developer"]
 
-<!--
-**Scarscodes/Scarscodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fields_of_interests:
+  ["Website Development", "Python Development", "Open Source", "Scalable Web Apps"]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently_learning: ["Advanced Python", "Scalable Architectures", "Modern Web Technologies"]
+2026_goals: ["Contribute to Open Source", "Build Scalable Websites", "Grow Websites"]
+hobbies: ["Listening to Music", "Coding"]
